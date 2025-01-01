@@ -1,0 +1,15 @@
+{
+  "name": "birthday-master",
+  "version": "1.0.0",
+  "description": "Happy Birthday",
+  "main": "effect.js",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
